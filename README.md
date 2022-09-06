@@ -4,7 +4,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Irizkyw.Irizkyw)
 
 </p>
-<div size='20px'> Hi! My name is Ichwan Rizky Wahyudin. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Ichwan Rizky Wahyudin. Thank You for taking the time to view my GitHub Profile
 </div>
  
  <h2> About Me</h2>
@@ -13,7 +13,7 @@
 
 - 💬 Talk to me about Golang,PHP, JavaScript, Python, Open Source 
 
-<h2> Learned <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 16px height=16px> </h2>
+<h2> programming language that has been learned <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 8px height=8px> </h2>
 <a href= https://github.com/Irizkyw?tab=repositories&q=&type=&language=python&sort= > <img width ='16px' height='16px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/Irizkyw?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='16px' height='16px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/Irizkyw?tab=repositories&q=&type=&language=javascript&sort= > <img width ='16px' height='16px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
