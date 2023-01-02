@@ -9,9 +9,9 @@
  
  <h2> About Me</h2>
 
-- 🌱 I’m currently learning Machine Learning, ReactJs.  
+- 🌱 I’m currently learning Machine Learning, Assembly.  
 
-- 💬 Talk to me about Golang,PHP, JavaScript, Python, Open Source 
+- 💬 Talk to me about Golang,PHP, JavaScript, Python, Cpp. 
 
 <h2> Programming language that has been learned</h2>
 <a href= https://github.com/Irizkyw?tab=repositories&q=&type=&language=python&sort= > <img width ='16px' height='16px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
