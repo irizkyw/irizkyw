@@ -19,7 +19,9 @@ To jump in and join the fun:
   <a href="https://bit.ly/3ph6OeO">
     <img src="https://media.giphy.com/media/UO5elnTqo4vSg/giphy.gif" alt="Check out this cool GIF!">
   </a>
+  <br>
 Here's a sneak peek at today's excitement. Click on the GIF for an extra dose of awesome!
+  
 </p>
 
 ## Ready to Rock?
