@@ -4,7 +4,7 @@ Hey there! 👋 Welcome to my project repository. This repository contains some 
 
 ## About
 
-This project is all about [exploring the wonders of technology](https://www.youtube.com/watch?v=dQw4w9WgXcQ). I'm currently developing some amazing features and functionalities.
+This project is all about [exploring the wonders of technology](https://bit.ly/3ph6OeO). I'm currently developing some amazing features and functionalities.
 
 ## Getting Started
 
