@@ -15,9 +15,9 @@ To jump in and join the fun:
 3. Fire it up and enjoy the ride!
 
 ## GIF of the Day
-
+<center>
 [![Check out this cool GIF!](https://media.giphy.com/media/UO5elnTqo4vSg/giphy.gif)](https://bit.ly/3ph6OeO)
-
+</center>
 Here's a sneak peek at today's excitement. Click on the GIF for an extra dose of awesome!
 
 ## Ready to Rock?
