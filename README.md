@@ -16,7 +16,7 @@ To get started with this project, simply clone the repository and follow these s
 
 ## GIF of the Day
 
-[![Check out this cool GIF!](https://media.giphy.com/media/UO5elnTqo4vSg/giphy.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Check out this cool GIF!](https://media.giphy.com/media/UO5elnTqo4vSg/giphy.gif)](https://bit.ly/3ph6OeO)
 
 Here's a sneak peek at what we're up to today. Click on the GIF to watch an awesome video!
 
