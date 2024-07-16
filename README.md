@@ -1,4 +1,4 @@
-# Hello Ladies and Gantlemen
+# Hello Ladies and Gantlemen 👋
 
 Welcome, welcome! This is where the magic happens!
 
